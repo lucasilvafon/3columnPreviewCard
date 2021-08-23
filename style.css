@@ -11,11 +11,12 @@ body {
 .container {
   height: 100%;
   display: block;
-  font-family: sans-serif;
+  font-family: 'Besley', serif;
 }
 .main {
   margin: 0 auto;
   padding: 1rem 2.5rem;
+  max-width: 375px;
 }
 img {
   margin-top: 1.5rem;
@@ -62,11 +63,15 @@ button {
   color: #00403f;
 }
 
-@media screen and (min-device-width: 950px) {
+@media screen and (min-device-width: 768px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   main {
     display: flex;
-    max-width: 950px;
-    min-width: 950px;
+    min-width: 900px;
   }
 
   #car-sedan {
