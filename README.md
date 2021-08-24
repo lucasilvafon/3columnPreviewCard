@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-css-flexbox-fmI_wWBvP)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: (https://htmlpreview.github.io/?https://github.com/lucasilvafon/3columnPreviewCard/blob/main/index.html)
 
 ## My process
 
